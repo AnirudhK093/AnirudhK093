@@ -12,13 +12,12 @@
 </p>
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate Database Engineer from India</h3>
-- 👋 Hi, I’m @AnirudhK093
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Anirudh K
+- 👀 I’m interested in Game Development 
+- 🌱 I’m currently learning Database Management
+- 💞️ I’m looking to collaborate on Game Development Related Project
+- 📫 How to reach me anirudhnair799@gmail.com
+
 
 <!---
 AnirudhK093/AnirudhK093 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

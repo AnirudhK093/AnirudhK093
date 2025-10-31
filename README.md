@@ -11,11 +11,11 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=sandeepsolai&color=grey">
 </p>
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
-<h3 align="center">A passionate Database Engineer from India</h3>
+<h3 align="center">A passionate Cybersecurity Analyst from India</h3>
 - 👋 Hi, I’m Anirudh K
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Database Management
-- 💞️ I’m looking to collaborate on Game Development Related Project
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on Cybersecurity Projects
 - 📫 How to reach me anirudhnair799@gmail.com
 
 

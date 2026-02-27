@@ -1,10 +1,10 @@
-<img align="left" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="25%" />
-<img align="right" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="25%" />
+<img align="left" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="22%" />
+<img align="right" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="22%" />
 
-<h1 align="center">⚡ ANIRUDH K ⚡</h1>
+<h1 align="center">ANIRUDH K</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Security+Protocols...;Ethical+Hacker+In+Progress;System+Status:+Learning;Root+Access:+Pending&font=Fira%20Code&color=%2300FF00&center=true&width=420&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Security+Protocols...;Cybersecurity+Analyst;Ethical+Hacker+in+Progress;Blue+Team+%7C+Red+Team&font=Fira%20Code&color=%2300FF00&center=true&width=450&height=45">
 </p>
 
 <p align="center">
@@ -14,23 +14,33 @@
 ---
 
 ```bash
-┌──(anirudh㉿kali)-[~]
+┌──(anirudh㉿kali)-[~/profile]
 └─$ whoami
-Cybersecurity Analyst
+Anirudh K | Cybersecurity Analyst | India
 
-┌──(anirudh㉿kali)-[~]
-└─$ echo $INTERESTS
-Ethical Hacking | Red Team | Blue Team | SOC | Threat Hunting
+┌──(anirudh㉿kali)-[~/profile]
+└─$ echo $FOCUS
+Offensive Security
+Defensive Security
+Active Directory Security
+Threat Detection & SOC Operations
 
-┌──(anirudh㉿kali)-[~]
-└─$ cat currently_learning.txt
-Advanced Cybersecurity
-Network Exploitation
-Active Directory Attacks
-SIEM & Log Analysis
+┌──(anirudh㉿kali)-[~/profile]
+└─$ cat skills.txt
+Linux & Windows Security
+Networking Fundamentals
+Vulnerability Assessment
+SIEM & Log Monitoring
+Incident Response (Basics)
 
-┌──(anirudh㉿kali)-[~]
-└─$ contact --info
-Email: anirudhnair799@gmail.com
-Location: India
-Status: Building. Learning. Securing.
+┌──(anirudh㉿kali)-[~/profile]
+└─$ cat current_mission.txt
+• Strengthening Blue Team capabilities
+• Learning advanced exploitation techniques
+• Building real-world security labs
+• Improving detection & response skills
+
+┌──(anirudh㉿kali)-[~/profile]
+└─$ contact --secure
+Email  : anirudhnair799@gmail.com
+Status : Learning. Building. Securing.

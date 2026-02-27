@@ -38,18 +38,7 @@
 ---
 
 ### 📊 ANALYTICS_DASHBOARD (REAL-TIME)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=FFBF00&hide_border=false&border_color=30363d&include_all_commits=true&count_private=true&cache_seconds=1800" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&hide_border=false&border_color=30363d&cache_seconds=1800" />
-      </td>
-    </tr>
-  </table>
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&color=FFBF00&line=00f7ff&point=ffffff&area=true&hide_border=false&border_color=30363d" width="100%" />
 </div>
 

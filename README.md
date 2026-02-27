@@ -13,9 +13,6 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true" alt="Stats" />
-    </td>
-    <td width="50%">
       <b>🚀 Status:</b> Active Threat Hunter <br>
       <b>🛡️ Focus:</b> Web Pentesting & SOC <br>
       <b>📍 Origin:</b> India 🇮🇳 <br>

@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?
-    type=rect&color=808080&height=65&section=header&text=ANIZO&fontSize=40&fontColor=FFBF00&animation=fadeIn&fontAlignY=60" />
+  type=rect&color=000000&height=200&section=header&text=ANIRUDH KOMATH&fontSize=40&fontColor=FFBF00&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">

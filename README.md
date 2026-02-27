@@ -33,30 +33,16 @@
 
 ---
 
-### 📡 OPERATIONAL_DASHBOARD
+### 🌐 NETWORK_METRICS (LIVE)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-bg=true&column=7&margin-w=15" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=FFBF00&text_color=ffffff&icon_color=FFBF00&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=FFBF00&text_color=ffffff&hide_border=true&cache_seconds=1800" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=darkhub&background=0d111700&ring=FFBF00&fire=FFBF00&currStreakLabel=ffffff&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=00f7ff&text_color=C0C0C0&icon_color=00f7ff&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=00f7ff&text_color=C0C0C0&hide_border=true" height="165" />
+</p>
 ---
 
 ### 🛠️ WORK_IN_PROGRESS

@@ -34,13 +34,6 @@ SIEM & Log Monitoring
 Incident Response (Basics)
 
 ┌──(anirudh㉿kali)-[~/profile]
-└─$ cat current_mission.txt
-• Strengthening Blue Team capabilities
-• Learning advanced exploitation techniques
-• Building real-world security labs
-• Improving detection & response skills
-
-┌──(anirudh㉿kali)-[~/profile]
 └─$ contact --secure
 Email  : anirudhnair799@gmail.com
 Status : Learning. Building. Securing.

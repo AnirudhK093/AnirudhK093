@@ -35,18 +35,6 @@
 ### 📊 SYSTEM_ANALYTICS // LIVE_DASHBOARD
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-bg=true&column=7&margin-w=15&rank=-C" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ffbf00&hide_border=false&border_color=00f7ff&include_all_commits=true&count_private=true&cache_seconds=1800" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffbf00&area=true&hide_border=false&border_color=30363d" width="800" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&hide_border=false&border_color=30363d&cache_seconds=1800" width="350" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=ffbf00&currStreakLabel=ffffff&hide_border=false&border_color=30363d" width="350" />
 </p>

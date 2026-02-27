@@ -33,25 +33,33 @@
 
 ---
 
-### 📊 ANALYTICS_DASHBOARD
+### 📊 ANALYTICS_DASHBOARD (LIVE_FEED)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="trophies" />
+</div>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=a9b1d6&icon_color=00f7ff&hide_border=true&include_all_commits=true&count_private=true" alt="Anirudh's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=a9b1d6&icon_color=00f7ff&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=a9b1d6&hide_border=true" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=a9b1d6&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=ffbf00&currStreakLabel=00f7ff&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Integrity-Verified-00FF41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Last_Sync-Real_Time-blue?style=flat-square" />
+</p>
 ---
 
 ### 🛠️ WORK_IN_PROGRESS

@@ -1,24 +1,30 @@
-<!-- ====================== CYBER DASHBOARD PREMIUM ====================== -->
+<!-- ======================= ELITE CYBER COMMAND CENTER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff00&height=280&section=header&text=ANIRUDH%20K&fontSize=60&fontColor=00ff00&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0f0f,100:00ffcc&height=260&section=header&text=ANIRUDH%20K&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Cybersecurity%20Engineer%20%7C%20Red%20%26%20Blue%20Operations&descAlignY=72"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+Cyber+Defense+Grid...;Red+Team+%7C+Blue+Team+Operator;Active+Directory+Security+Focused;Threat+Hunting+Mindset;System+Status:+ELITE+MODE+LOADING" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=850&lines=Cyber+Command+Interface+Activated;Offensive+Security+Strategist;Defensive+Infrastructure+Protector;Active+Directory+Security+Focused;Threat+Intelligence+Driven+Mindset" />
 </p>
 
 ---
 
-# 🖥️ CYBER CONTROL PANEL
+# 🧬 EXECUTIVE SECURITY PROFILE
 
-<img align="right" width="320" src="https://media.giphy.com/media/3o7TKsQ8UQ3k9GxV9K/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqFf6w9K3rYg0bK/giphy.gif" width="260"/>
+</p>
 
-```bash
-┌──────────────────────────────────────────┐
-│  USER        : ANIRUDH K                │
-│  ROLE        : Cybersecurity Analyst    │
-│  REGION      : India                    │
-│  SPECIALITY  : Red & Blue Team Ops      │
-│  STATUS      : Building Elite Skills    │
-└──────────────────────────────────────────┘
+```yaml
+Identity:
+  Name: Anirudh K
+  Title: Cybersecurity Analyst
+  Location: India
+  Focus: Offensive & Defensive Security
+  Mission: Engineer resilient & secure systems
+
+Core Philosophy:
+  - Think like an attacker
+  - Build like a defender
+  - Learn relentlessly

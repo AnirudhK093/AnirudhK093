@@ -1,69 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ANIRUDH%20K&fontSize=80&fontColor=FFBF00&animation=fadeIn&fontAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=141e30&height=250&section=header&text=ANIRUDH%20K&fontSize=75&fontColor=00f7ff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>CYBERSECURITY ANALYST | ETHICAL HACKER | THREAT HUNTER</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Analyst;⚡+Digital+Forensics;🔥+Exploit+Researcher;📡+Network+Security">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🛡️_Security_Level-Authorized-FFBF00?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌐_Location-India-white?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻_Status-Active_Hunting-00FF41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Verified-00f7ff?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Online-00FF41?style=flat-square" />
 </p>
 
 ---
 
-### 📂 Profile_Overview.exe
-
-> **Analytical, detail-oriented Cybersecurity Analyst focused on identifying vulnerabilities and hardening digital assets. Passionate about the intersection of offensive tactics and defensive strategy.**
-
----
-
-### 🛠️ Technical Expertise
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <b>🔴 RED TEAM</b><br>
-      Vulnerability Assessment<br>
-      Penetration Testing<br>
-      Exploit Development
-    </td>
-    <td width="33%" align="center">
-      <b>🔵 BLUE TEAM</b><br>
-      Incident Response<br>
-      Log Analysis<br>
-      Network Hardening
-    </td>
-    <td width="33%" align="center">
-      <b>⚙️ STACK</b><br>
-      Python / Bash<br>
-      Kali / Parrot OS<br>
-      SIEM / Splunk
-    </td>
-  </tr>
-</table>
+## ⚡ MISSION_LOG
+> **"A Cybersecurity Specialist dedicated to safeguarding the digital frontier. My approach blends rigorous analysis with creative problem-solving to stay one step ahead of evolving threats."**
 
 ---
 
+### 🧬 THE SKILLSET
 
-### 📬 Connect via Secure Channel
+<p align="center">
+  <img src="https://img.shields.io/badge/PEN-TESTING-FFBF00?style=for-the-badge&logo=kali-linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/THREAT_HUNTING-000080?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SIEM-FF6633?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<p align="left">
+---
+
+### 📊 ANALYTICS_DASHBOARD
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calm&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=calm&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🛠️ WORK_IN_PROGRESS
+- 🔭 **Current Focus:** Developing a custom Malware Analysis Sandbox.
+- 🎓 **Continuous Learning:** Mastering Cloud Security (AWS/Azure).
+- ✍️ **Writing:** Documenting walkthroughs for HTB machines.
+
+---
+
+### 🤝 CONNECT_WITH_ME
+<p align="center">
   <a href="mailto:anirudhnair799@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFBF00?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://tryhackme.com">
     <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFBF00&center=true&vCenter=true&width=500&lines=%22Security+is+a+journey%2C+not+a+destination.%22">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2&section=footer" />
 </p>

@@ -1,71 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-  type=rect&color=000000&height=200&section=header&text=ANIRUDHKOMATH&fontSize=40&fontColor=FFBF00&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:003153&height=220&section=header&text=ANIRUDH%20K&fontSize=50&fontColor=FFBF00&animation=twinkling&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+Security+Protocol...;Bypassing+Firewalls...;Compiling+Payloads...;Access+Granted:+Welcome+Anirudh+K">
-</p>
-
----
-
-## 🖥️ SYSTEM INFO (WHOAMI)
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true" alt="Stats" />
-    </td>
-    <td width="50%">
-      <b>🚀 Status:</b> Active Threat Hunter <br>
-      <b>🛡️ Focus:</b> Web Pentesting & SOC <br>
-      <b>📍 Origin:</b> India 🇮🇳 <br>
-      <b>📧 Comms:</b> <a href="mailto:anirudhnair799@gmail.com">anirudhnair799@gmail.com</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ THE ARSENAL (TECH STACK)
-
-### 🔴 OFFENSIVE (Red Team)
-<p align="left">
-  <img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=flat-square&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-%234DABCF.svg?style=flat-square" />
-</p>
-
-### 🔵 DEFENSIVE (Blue Team)
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-%23333333.svg?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📊 VULNERABILITY REPORT (GITHUB ACTIVITY)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true" />
-</p>
-
----
-
-## 📁 CURRENT_PROJECTS.exe
-* 🛡️ **Automated Recon Script:** Building a Python-based OSINT tool.
-* 🔍 **CTF Writeups:** Documenting walkthroughs for TryHackMe/HackTheBox.
-* ⚙️ **Home Lab:** Setting up a virtual SOC using ELK Stack.
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix&quote=The%20only%20truly%20secure%20system%20is%20one%20that%20is%20powered%20off%2C%20cast%20in%20a%20block%20of%20concrete%2C%20and%20sealed%20in%20a%20lead-lined%20room." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=🔐+ESTABLISHING+SECURE+CONNECTION...;🛡️+CYBER+SECURITY+ANALYST;🔍+THREAT+HUNTING+IN+PROGRESS...;🚀+MISSION:+SECURE+THE+DIGITAL+WORLD">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF41&height=20&section=footer" />
+  <a href="mailto:anirudhnair799@gmail.com">
+    <img src="https://img.shields.io/badge/COMM_CHANNEL-OFFLINE-FFBF00?style=for-the-badge&logo=gmail&logoColor=000080" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/INTEL_NETWORK-LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### 🟢 SYSTEM STATUS: ACTIVE
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&custom_title=Security_Metrics&bg_color=000080&title_color=FFBF00&text_color=C0C0C0&icon_color=FFBF00&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=000080&title_color=FFBF00&text_color=C0C0C0&hide_border=true" width="300" />
+</p>
+
+---
+
+### 🧠 <kbd>Terminal:~/AboutMe $</kbd>
+
+```zsh
+# Identification
+ANIRUDH_K="Cybersecurity Analyst"
+LOCATION="India 🇮🇳"
+MOTTO="To secure a system, you must first learn to break it."
+
+# Current Operations
+- [>] Performing VAPT on internal infrastructures
+- [>] Analyzing Network Traffic via Wireshark
+- [>] Hardening Linux Servers (Gunmetal Grey Edition)

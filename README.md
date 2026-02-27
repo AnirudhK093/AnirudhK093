@@ -32,17 +32,34 @@
 </p>
 
 ---
-
-### 🌐 NETWORK_METRICS (LIVE)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
+### 📊 ANALYTICS_DASHBOARD (LIVE_FEED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=00f7ff&text_color=C0C0C0&icon_color=00f7ff&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=00f7ff&text_color=C0C0C0&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&margin-w=15&column=7&rank=-C" alt="trophies" />
 </p>
+
+---
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=00f7ff&text_color=a9b1d6&icon_color=00f7ff&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=00f7ff&text_color=a9b1d6&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d111700&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="
 ---
 
 ### 🛠️ WORK_IN_PROGRESS

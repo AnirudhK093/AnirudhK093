@@ -38,10 +38,6 @@
 ---
 
 ### 📊 ANALYTICS_DASHBOARD (REAL-TIME)
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&color=FFBF00&line=00f7ff&point=ffffff&area=true&hide_border=false&border_color=30363d" width="100%" />
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=FFBF00&currStreakLabel=ffffff&hide_border=false&border_color=30363d" width="70%" />
 </p>

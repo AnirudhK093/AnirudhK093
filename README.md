@@ -34,9 +34,22 @@
 ---
 
 ### 📊 ANALYTICS_DASHBOARD
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=a9b1d6&icon_color=00f7ff&hide_border=true&include_all_commits=true&count_private=true" alt="Anirudh's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=a9b1d6&hide_border=true" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calm&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=calm&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

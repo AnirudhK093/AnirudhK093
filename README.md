@@ -1,33 +1,22 @@
-<!-- ========================= HEADER SECTION ========================= -->
+<!-- ================== CYBER PROFILE V2 ================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="180px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=ANIRUDH%20K&fontSize=50&fontColor=00ff00&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ ANIRUDH K ⚡</h1>
-<h3 align="center">🛡️ Cybersecurity Analyst | Ethical Hacker in Progress</h3>
+<h3 align="center">🛡 Offensive Security | 🧠 Defensive Strategy | ⚡ Continuous Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Security+Protocols...;Ethical+Hacker+In+Progress;System+Status:+Learning;Root+Access:+Pending&font=Fira%20Code&color=%2300FF00&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnirudhK093&color=00ff00&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Ethical+Hacker+in+Progress;Red+Team+%7C+Blue+Team;Active+Directory+Security;Threat+Hunter+Mindset" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 SYSTEM PROFILE
 
 ```bash
-┌──(anirudh㉿kali)-[~]
-└─$ whoami
-Anirudh K
-
-┌──(anirudh㉿kali)-[~]
-└─$ role
-Cybersecurity Analyst
-
-┌──(anirudh㉿kali)-[~]
-└─$ mission
-Learning. Building. Securing.
+> USER: Anirudh K
+> ROLE: Cybersecurity Analyst
+> LOCATION: India
+> STATUS: Learning | Building | Securing
+> EXPERIENCE LEVEL: Growing Everyday

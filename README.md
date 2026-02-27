@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=height=100&section=header&text=ANIRUDH&fontSize=40&fontColor=FFBF00&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=ANIRUDH:%20SYSTEMS%20SECURED&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
@@ -13,6 +12,9 @@
 
 <table align="center">
   <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true" alt="Stats" />
+    </td>
     <td width="50%">
       <b>🚀 Status:</b> Active Threat Hunter <br>
       <b>🛡️ Focus:</b> Web Pentesting & SOC <br>

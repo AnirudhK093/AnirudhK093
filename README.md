@@ -1,39 +1,77 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:003153&height=220&section=header&text=ANIRUDH%20K&fontSize=50&fontColor=FFBF00&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ANIRUDH%20K&fontSize=70&fontColor=FFBF00&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=🔐+ESTABLISHING+SECURE+CONNECTION...;🛡️+CYBER+SECURITY+ANALYST;🔍+THREAT+HUNTING+IN+PROGRESS...;🚀+MISSION:+SECURE+THE+DIGITAL+WORLD">
+  <b>CYBERSECURITY ANALYST | ETHICAL HACKER | THREAT HUNTER</b>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🛡️_Security_Level-Authorized-FFBF00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Location-India-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻_Status-Active_Hunting-00FF41?style=flat-square" />
+</p>
+
+---
+
+### 📂 Profile_Overview.exe
+
+> **Analytical, detail-oriented Cybersecurity Analyst focused on identifying vulnerabilities and hardening digital assets. Passionate about the intersection of offensive tactics and defensive strategy.**
+
+---
+
+### 🛠️ Technical Expertise
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>🔴 RED TEAM</b><br>
+      Vulnerability Assessment<br>
+      Penetration Testing<br>
+      Exploit Development
+    </td>
+    <td width="33%" align="center">
+      <b>🔵 BLUE TEAM</b><br>
+      Incident Response<br>
+      Log Analysis<br>
+      Network Hardening
+    </td>
+    <td width="33%" align="center">
+      <b>⚙️ STACK</b><br>
+      Python / Bash<br>
+      Kali / Parrot OS<br>
+      SIEM / Splunk
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Security Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blood&bg_color=000000&title_color=FFBF00&text_color=ffffff&icon_color=FFBF00&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blood&bg_color=000000&title_color=FFBF00&text_color=ffffff&hide_border=true" height="170" />
+</p>
+
+---
+
+### 📬 Connect via Secure Channel
+
+<p align="left">
   <a href="mailto:anirudhnair799@gmail.com">
-    <img src="https://img.shields.io/badge/COMM_CHANNEL-OFFLINE-FFBF00?style=for-the-badge&logo=gmail&logoColor=000080" />
+    <img src="https://img.shields.io/badge/Email-FFBF00?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/INTEL_NETWORK-LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🟢 SYSTEM STATUS: ACTIVE
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&custom_title=Security_Metrics&bg_color=000080&title_color=FFBF00&text_color=C0C0C0&icon_color=FFBF00&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=000080&title_color=FFBF00&text_color=C0C0C0&hide_border=true" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFBF00&center=true&vCenter=true&width=500&lines=%22Security+is+a+journey%2C+not+a+destination.%22">
 </p>
-
----
-
-### 🧠 <kbd>Terminal:~/AboutMe $</kbd>
-
-```zsh
-# Identification
-ANIRUDH_K="Cybersecurity Analyst"
-LOCATION="India 🇮🇳"
-MOTTO="To secure a system, you must first learn to break it."
-
-# Current Operations
-- [>] Performing VAPT on internal infrastructures
-- [>] Analyzing Network Traffic via Wireshark
-- [>] Hardening Linux Servers (Gunmetal Grey Edition)

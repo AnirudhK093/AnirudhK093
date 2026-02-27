@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Analyst;⚡+Digital+Forensics;🔥+Exploit+Researcher;📡+Network+Security">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Analyst;⚡+Digital+Forensics;🔥+Exploit+Researcher;📡+Network+Security">
 </p>
 
 <p align="center">

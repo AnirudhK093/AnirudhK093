@@ -1,52 +1,48 @@
-<!-- ================= SINGLE TERMINAL SESSION ================= -->
+<!-- ================= MATRIX RAIN TERMINAL ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d001a&height=180&section=header&text=anirudh@matrix:~$&fontSize=38&fontColor=bb00ff"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
 </p>
 
 ```bash
-┌──(anirudh㉿matrix)-[~]
-└─$ whoami
+██████████████████████████████████████████████████████████████
+█  anirudh@matrix:~$ whoami                               █
+██████████████████████████████████████████████████████████████
+
 Anirudh K
 
-┌──(anirudh㉿matrix)-[~]
-└─$ id
-uid=1000(anirudh) gid=1000(matrix) groups=red_team,blue_team,soc,threat_hunters
+anirudh@matrix:~$ id
+uid=1000(anirudh) gid=0(root) groups=red_team,blue_team,soc,threat_hunting
 
-┌──(anirudh㉿matrix)-[~]
-└─$ cat profile.txt
-Role        : Cybersecurity Analyst
-Location    : India
-Speciality  : Offensive & Defensive Security
-Mission     : Build Secure. Break Smart. Defend Strong.
+anirudh@matrix:~$ cat role.txt
+Cybersecurity Analyst
 
-┌──(anirudh㉿matrix)-[~]
-└─$ ls expertise/
+anirudh@matrix:~$ cat philosophy.txt
+> Think like an attacker.
+> Build like a defender.
+> Automate. Analyze. Secure.
+
+anirudh@matrix:~$ ls domains/
 ethical_hacking
-red_team_operations
+red_team_ops
 blue_team_defense
-soc_monitoring
-threat_analysis
 active_directory_security
+siem_engineering
+incident_response
 
-┌──(anirudh㉿matrix)-[~/learning]
-└─$ cat current_focus.log
-[+] Advanced Cybersecurity Engineering
-[+] Active Directory Attacks & Hardening
-[+] Network Exploitation Techniques
-[+] SIEM Log Correlation
-[+] Incident Response Strategy
+anirudh@matrix:~$ ./current_focus.sh
+Advanced Cybersecurity
+AD Exploitation & Hardening
+Network Penetration Testing
+Threat Intelligence
+Log Correlation
 
-┌──(anirudh㉿matrix)-[~/tools]
-└─$ ./tech_stack.sh --list
-Kali Linux
-Windows Server
-PowerShell
-Bash
-Docker
-Git
-SIEM Platforms
+anirudh@matrix:~$ contact --secure
+email    : anirudhnair799@gmail.com
+location : india
+status   : matrix mode active
 
-┌──(anirudh㉿matrix)-[~/github]
-└─$ system_metrics --live
-Fetching GitHub analytics...
+anirudh@matrix:~$ echo "Break. Understand. Secure. Repeat."
+Break. Understand. Secure. Repeat.
+
+anirudh@matrix:~$ █

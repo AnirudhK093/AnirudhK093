@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=50&section=header&text=ANIRUDH:%20SYSTEMS%20SECURED&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=65&section=header&text=ANIRUDH:%20SYSTEMS%20SECURED&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
 </p>
 
 <p align="center">

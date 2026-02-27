@@ -1,22 +1,24 @@
-<!-- ================== CYBER PROFILE V2 ================== -->
+<!-- ===================== CYBER ELITE PROFILE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=ANIRUDH%20K&fontSize=50&fontColor=00ff00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff00&height=250&section=header&text=ANIRUDH%20K&fontSize=55&fontColor=00ff00&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20In%20Progress&descAlignY=70"/>
 </p>
 
-<h3 align="center">🛡 Offensive Security | 🧠 Defensive Strategy | ⚡ Continuous Learning</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Ethical+Hacker+in+Progress;Red+Team+%7C+Blue+Team;Active+Directory+Security;Threat+Hunter+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Booting+Security+Framework...;Red+Team+Mindset+Activated;Blue+Team+Defense+Ready;Active+Directory+Security+Focused;Threat+Hunter+Mode+ON" />
 </p>
 
 ---
 
-## 🧑‍💻 SYSTEM PROFILE
+# 🧠 DIGITAL IDENTITY
+
+<img align="right" width="300" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
 ```bash
-> USER: Anirudh K
-> ROLE: Cybersecurity Analyst
-> LOCATION: India
-> STATUS: Learning | Building | Securing
-> EXPERIENCE LEVEL: Growing Everyday
+┌─[ SYSTEM PROFILE ]
+│
+├─ USER        : Anirudh K
+├─ ROLE        : Cybersecurity Analyst
+├─ LOCATION    : India
+├─ SPECIALITY  : Offensive & Defensive Security
+└─ STATUS      : Continuous Skill Upgrade

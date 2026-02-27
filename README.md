@@ -1,24 +1,52 @@
-<!-- ================= ULTRA DARK MATRIX NEON EDITION ================= -->
+<!-- ================= SINGLE TERMINAL SESSION ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a001f&height=260&section=header&text=ANIRUDH%20K&fontSize=60&fontColor=bb00ff&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20Cyberpunk%20Security&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d001a&height=180&section=header&text=anirudh@matrix:~$&fontSize=38&fontColor=bb00ff"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=BB00FF&center=true&vCenter=true&width=800&lines=System+Booting...;Matrix+Interface+Connected;Red+Team+%7C+Blue+Team;Active+Directory+Security;Threat+Hunter+Protocol+Enabled" />
-</p>
-
----
-
-# 🟣 DIGITAL PROFILE
-
-<img align="right" width="280" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"/>
 
 ```bash
-┌──────────────────────────────────────┐
-│ USER        : ANIRUDH K             │
-│ ROLE        : Cybersecurity Analyst │
-│ REGION      : India                 │
-│ MODE        : Offensive + Defensive │
-│ STATUS      : Matrix Active         │
-└──────────────────────────────────────┘
+┌──(anirudh㉿matrix)-[~]
+└─$ whoami
+Anirudh K
+
+┌──(anirudh㉿matrix)-[~]
+└─$ id
+uid=1000(anirudh) gid=1000(matrix) groups=red_team,blue_team,soc,threat_hunters
+
+┌──(anirudh㉿matrix)-[~]
+└─$ cat profile.txt
+Role        : Cybersecurity Analyst
+Location    : India
+Speciality  : Offensive & Defensive Security
+Mission     : Build Secure. Break Smart. Defend Strong.
+
+┌──(anirudh㉿matrix)-[~]
+└─$ ls expertise/
+ethical_hacking
+red_team_operations
+blue_team_defense
+soc_monitoring
+threat_analysis
+active_directory_security
+
+┌──(anirudh㉿matrix)-[~/learning]
+└─$ cat current_focus.log
+[+] Advanced Cybersecurity Engineering
+[+] Active Directory Attacks & Hardening
+[+] Network Exploitation Techniques
+[+] SIEM Log Correlation
+[+] Incident Response Strategy
+
+┌──(anirudh㉿matrix)-[~/tools]
+└─$ ./tech_stack.sh --list
+Kali Linux
+Windows Server
+PowerShell
+Bash
+Docker
+Git
+SIEM Platforms
+
+┌──(anirudh㉿matrix)-[~/github]
+└─$ system_metrics --live
+Fetching GitHub analytics...

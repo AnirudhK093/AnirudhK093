@@ -1,65 +1,84 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=ANIRUDH%20K&fontSize=75&fontColor=FFBF00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=ANIRUDH%20K&fontSize=80&fontColor=FFBF00&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Analyst;⚡+Digital+Forensics;🔥+Exploit+Researcher;📡+Network+Security">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Analyst;⚡+Digital+Forensics+Expert;🔥+Red+Team+Researcher;📡+Network+Security+Sentinel">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-Verified-00f7ff?style=flat-square&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Online-00FF41?style=flat-square" />
+  <img src="https://img.shields.io/badge/AUTH-VERIFIED-00FF41?style=flat-square&logo=ghostery&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OS-KALI_LINUX-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_HUNTING-FFBF00?style=flat-square" />
 </p>
 
 ---
 
-## ⚡ MISSION_LOG
-> **"A Cybersecurity Specialist dedicated to safeguarding the digital frontier. My approach blends rigorous analysis with creative problem-solving to stay one step ahead of evolving threats."**
-
----
-
-### 🧬 THE SKILLSET
-
+## ⚡ MISSION_CONTROL
 <p align="center">
-  <img src="https://img.shields.io/badge/PEN-TESTING-FFBF00?style=for-the-badge&logo=kali-linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/THREAT_HUNTING-000080?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SIEM-FF6633?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process." />
 </p>
 
+> **Executive Summary:** *Analytical Cybersecurity professional specialized in identifying systemic vulnerabilities and architecting resilient defensive postures. My methodology integrates automated threat intelligence with manual exploit research to secure critical digital frontiers.*
+
 ---
-### 📊 SYSTEM_ANALYTICS // LIVE_DASHBOARD
+
+### 🧬 NEURAL_SKILL_NET
+
+<div align="center">
+  
+| **🔴 OFFENSIVE** | **🔵 DEFENSIVE** | **⚙️ AUTOMATION** |
+| :--- | :--- | :--- |
+| `Penetration Testing` | `Incident Response` | `Python Sec-Scripting` |
+| `Vulnerability Assessment` | `SIEM / Log Analysis` | `Bash / PowerShell` |
+| `Metasploit / BurpSuite` | `Wireshark / Splunk` | `Docker / DevSecOps` |
+
+</div>
+
+---
+
+### 📊 ANALYTICS_DASHBOARD (REAL-TIME)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=FFBF00&hide_border=false&border_color=30363d&include_all_commits=true&count_private=true&cache_seconds=1800" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&hide_border=false&border_color=30363d&cache_seconds=1800" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&color=FFBF00&line=00f7ff&point=ffffff&area=true&hide_border=false&border_color=30363d" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&hide_border=false&border_color=30363d&cache_seconds=1800" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=ffbf00&currStreakLabel=ffffff&hide_border=false&border_color=30363d" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=FFBF00&currStreakLabel=ffffff&hide_border=false&border_color=30363d" width="70%" />
 </p>
----
-
-### 🛠️ WORK_IN_PROGRESS
-- 🔭 **Current Focus:** Developing a custom Malware Analysis Sandbox.
-- 🎓 **Continuous Learning:** Mastering Cloud Security (AWS/Azure).
-- ✍️ **Writing:** Documenting walkthroughs for HTB machines.
 
 ---
 
-### 🤝 CONNECT_WITH_ME
+### 🛠️ CURRENT_OPERATIONS
+- 🔭 **Project Alpha:** Engineering a custom Malware Sandbox for behavioral analysis.
+- 🎓 **Intelligence:** Pursuing advanced Cloud Security certifications.
+- ✍️ **Intel Report:** Publishing CTF walkthroughs and Security Whitepapers.
+
+---
+
+### 🤝 SECURE_COMMUNICATION
 <p align="center">
   <a href="mailto:anirudhnair799@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TRYHACKME-990000?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=FFBF00&height=20&section=footer" />
 </p>

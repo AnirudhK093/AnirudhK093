@@ -39,13 +39,6 @@
 
 ---
 
-### 📊 AI_ANALYTICS_DASHBOARD
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&ring=00f7ff&fire=FFBF00&currStreakLabel=ffffff&hide_border=false&border_color=30363d" width="70%" />
-</p>
-
----
 
 ### 🛠️ CURRENT_OPERATIONS
 

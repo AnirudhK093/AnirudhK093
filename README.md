@@ -57,20 +57,4 @@
 - Visibility before response  
 - Continuous improvement through analysis  
 
----
 
-### 🤝 CONNECT
-
-<p align="center">
-  <a href="mailto:anirudhnair799@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0f172a&height=20&section=footer" />
-</p>
-``

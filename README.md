@@ -1,67 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=ANIRUDH%20K&fontSize=80&fontColor=FFBF00&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=ANIRUDH%20K&fontSize=76&fontColor=9AE6B4&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🤖+Generative+AI+Engineer;🧠+LLM+Architect;⚡+Prompt+Engineering+Specialist;📊+AI+Automation+Builder">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=6EE7F9&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Security+Operations+%28SOC%29;Threat+Detection+%26+Incident+Response;Defensive+Security+Focus" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTH-VERIFIED-00FF41?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/STACK-PYTHON_&_TENSORFLOW-557C94?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_AI_SYSTEMS-FFBF00?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-BLUE_TEAM-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-CONTINUOUS_LEARNING-38BDF8?style=flat-square" />
 </p>
 
 ---
 
-## ⚡ AI_MISSION_CONTROL
+## ░░ SECURITY_CONTEXT ░░
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Artificial%20Intelligence%20is%20the%20new%20electricity." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process." />
 </p>
 
-> **Executive Summary:**  
-> *Analytical Generative AI professional specializing in building intelligent systems powered by Large Language Models, Retrieval-Augmented Generation (RAG), and AI-driven automation. My approach combines model optimization, prompt engineering, and scalable deployment to engineer next-generation AI solutions.*
+> **Profile**  
+> Entry‑level Cybersecurity Analyst with a defensive mindset, focused on security monitoring, threat identification, and incident response.  
+> Interested in how systems fail, how attacks surface in logs, and how early detection reduces risk.
 
 ---
 
-### 🧬 INTELLIGENCE_SKILL_NET
+## ░░ DEFENSIVE_SKILLSET ░░
 
 <div align="center">
 
-| **🧠 MODELING** | **📊 DATA & ML** | **⚙️ AI ENGINEERING** |
+| **🛡️ SECURITY OPS** | **🕸️ NETWORK & OS** | **⚙️ TOOLING** |
 | :--- | :--- | :--- |
-| `LLM Fine-Tuning` | `Machine Learning` | `Python / FastAPI` |
-| `Prompt Engineering` | `Data Preprocessing` | `LangChain / RAG` |
-| `HuggingFace / OpenAI APIs` | `Model Evaluation` | `Docker / MLOps` |
+| `SOC Monitoring` | `TCP/IP Basics` | `Linux` |
+| `Incident Response` | `Log Analysis` | `SIEM (Basic)` |
+| `Threat Detection` | `Authentication & Access` | `Wireshark` |
+| `Vulnerability Assessment` | `Windows / Linux` | `OpenVAS / Nessus` |
 
 </div>
 
 ---
 
+## ░░ CURRENT_FOCUS ░░
 
-### 🛠️ CURRENT_OPERATIONS
-
-- 🚀 **Project Alpha:** Building a Custom RAG-based AI Assistant with Vector Database integration.
-- 🎓 **Learning Track:** Advanced LLM Fine-Tuning & AI Model Optimization.
-- ✍️ **Research Logs:** Publishing AI system design breakdowns & GenAI project case studies.
+- 🔍 **Security Monitoring:** Practicing log analysis and alert investigation using simulated SOC environments  
+- 🧪 **Hands‑On Labs:** Phishing analysis, brute‑force detection, vulnerability scanning  
+- 📝 **Documentation:** Writing incident reports and security findings in analyst‑style format  
 
 ---
 
-### 🤝 AI_NETWORK
+## ░░ SECURITY_OBJECTIVE ░░
+
+- Understand adversary behavior from a **blue‑team perspective**
+- Improve detection through **log correlation & pattern recognition**
+- Build strong fundamentals in **incident response workflows**
+- Transition into a **SOC Analyst / Cybersecurity Analyst** role
+
+---
+
+## ░░ CONNECT ░░
 
 <p align="center">
   <a href="mailto:anirudhnair799@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co">
-    <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/LINKEDIN-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=FFBF00&height=20&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=18&section=footer" />
 </p>
